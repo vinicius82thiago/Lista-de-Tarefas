@@ -39,4 +39,5 @@ O que poderá ser melhorado
 
 Esse projeto faz parte do meu aprendizado em desenvolvimento web e foi criado para colocar em prática conceitos importantes de JavaScript, HTML, Tailwind CSS e levando em conta o cenário do desenvolm=vimento atual também foi utilizado IA, criando uma aplicação simples e funcional.
 
-![Lista de Tarefas](image.png)
+
+![alt text](<imagem lista.png>)
